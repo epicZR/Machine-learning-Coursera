@@ -1,2 +1,5 @@
-# Machine-learning-Coursera
-Machine learning Coursera assignment solutions
+# machine-learning-programming-assignments-coursera-andrew-ng
+Solutions to Andrew NG's machine learning course on Coursera
+
+Author Md. Zobaidur Rahman
+Read the instructions from pdf carefully and good luck :)
